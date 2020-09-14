@@ -2,7 +2,7 @@
 ## **Junior (Trainee)<br>Front-End Developer** 
 <br><br>
 
-### **ABOUT ME**<br><br>
+### **ABOUT ME**
 >*I'm a qualified user of Google and can prioritize the task curretctly.* <br>
 >*I can reliably read and understand documentation in English.* <br>
 >*I write correct and readable code.*
@@ -23,7 +23,7 @@
 
 | **SKILLS**  | **TOOLS**  | **QUALITIES**  | **BOOKS**  |
 |:---:|:---:|:---:|:---:|
-| HTML5 |  Adobe Photoshop & Illustrator | Analitical mindset |   Grokking Algorithms <br>by Aditya Bhargava 
+| HTML5 |  Adobe Photoshop <br>& Illustrator | Analitical mindset |   Grokking Algorithms <br>by Aditya Bhargava 
 | CSS3 |  Sass/Scss | Fast learner | 
 | JS |  Gulp 4 | Team player | 
 | BEM |  Git | Ability to learn <br>independently | 
