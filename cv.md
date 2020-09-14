@@ -21,41 +21,31 @@
 - Russian & Kazakh: Native
 <br><br>
 
-### **SKILLS**
-------
-- HTML5
-- CSS3
-- JS
-- BEM
+| **SKILLS**  |   |      | **TOOLS**  |
+|:---:|---|---|:---:|
+| HTML5 | | |  Adobe Photoshop & Illustrator
+| CSS3 | | |  Sass/Scss
+| JS | | |  Gulp 4
+| BEM | | |  Git
+
 <br><br>
 
-### **TOOLS**
-------
-- Adobe Photoshop & Illustrator
-- Sass/Scss
-- Gulp 4
-- Git
-<br><br>
+| **QUALITIES**  |   |      | **BOOKS**  |
+|:---:|---|---|:---:|
+| Analitical mindset | | |  Grokking Algorithms <br>by Aditya Bhargava 
+| Fast learner | | |  
+| Team player | | |  
+| Ability to learn <br>independently | | |  
 
-### **QUALITIES**
-------
-- Analitical mindset
-- Fast learner
-- Team player
-- Ability to learn independently
 <br><br>
-
-### **BOOKS**
-------
-- Grokking Algorithms by Aditya Bhargava 
-<br><br>
-
 
 ### **CONTACTS**
-------
-- Phone: [+7 (777) 470-28-38](tel:+77774702838)
-- Email: [asylkhan1703@gmail.com](mailto:asylkhan1703@gmail.com)
-- Facebook: [fb.me/asylkhan](https://www.facebook.com/asylkhan.fazylov)
-- LinkedIn: [linked.me/asylkhan](https://www.linkedin.com/in/asylkhan1703/)
-- GitHub: [gh.me/asylkhan](https://www.linkedin.com/in/asylkhan1703/)
+------ 
+<br>
+
+Phone: [+7 (777) 470-28-38](tel:+77774702838)<br>
+Email: [asylkhan1703@gmail.com](mailto:asylkhan1703@gmail.com)<br>
+Facebook: [fb.me/asylkhan](https://www.facebook.com/asylkhan.fazylov)<br>
+LinkedIn: [linked.me/asylkhan](https://www.linkedin.com/in/asylkhan1703/)<br>
+GitHub: [gh.me/asylkhan](https://www.linkedin.com/in/asylkhan1703/)<br>
 <br><br>
