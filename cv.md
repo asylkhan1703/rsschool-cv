@@ -7,7 +7,7 @@
 >*I can reliably read and understand documentation in English.* <br>
 >*I write correct and readable code.*
 
-<br><br><br>
+<br>
 
 ### **EDUCATION**
 ------
