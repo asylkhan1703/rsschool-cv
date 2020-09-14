@@ -32,7 +32,6 @@
 
 ### **CONTACTS**
 ------ 
-<br>
 
 Phone: [+7 (777) 470-28-38](tel:+77774702838)<br>
 Email: [asylkhan1703@gmail.com](mailto:asylkhan1703@gmail.com)<br>
