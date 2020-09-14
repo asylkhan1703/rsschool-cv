@@ -7,8 +7,6 @@
 >*I can reliably read and understand documentation in English.* <br>
 >*I write correct and readable code.*
 
-
-
 <br><br>
 
 ### **EDUCATION**
@@ -20,7 +18,7 @@
 ### **LANGUAGES**
 ------
 - English: Intermediate <br>
-- Russian / Kazakh: Native
+- Russian & Kazakh: Native
 <br><br>
 
 ### **SKILLS**
@@ -33,12 +31,10 @@
 
 ### **TOOLS**
 ------
-- Adobe Photoshop
-- Adobe Illustrator
-- Git
+- Adobe Photoshop & Illustrator
 - Sass/Scss
 - Gulp 4
-- Bootstrap 4
+- Git
 <br><br>
 
 ### **QUALITIES**
@@ -59,6 +55,7 @@
 ------
 - Phone: [+7 (777) 470-28-38](tel:+77774702838)
 - Email: [asylkhan1703@gmail.com](mailto:asylkhan1703@gmail.com)
-- linkedIn: [linked.me/asylkhan](https://www.linkedin.com/in/asylkhan1703/)
 - Facebook: [fb.me/asylkhan](https://www.facebook.com/asylkhan.fazylov)
+- LinkedIn: [linked.me/asylkhan](https://www.linkedin.com/in/asylkhan1703/)
+- GitHub: [gh.me/asylkhan](https://www.linkedin.com/in/asylkhan1703/)
 <br><br>
