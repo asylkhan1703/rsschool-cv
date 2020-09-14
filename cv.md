@@ -2,12 +2,12 @@
 ## **Junior (Trainee)<br>Front-End Developer** 
 <br><br>
 
-### **ABOUT ME**<br>
+### **ABOUT ME**<br><br>
 >*I'm a qualified user of Google and can prioritize the task curretctly.* <br>
 >*I can reliably read and understand documentation in English.* <br>
 >*I write correct and readable code.*
 
-<br><br>
+<br><br><br>
 
 ### **EDUCATION**
 ------
@@ -21,23 +21,14 @@
 - Russian & Kazakh: Native
 <br><br>
 
-| **SKILLS**  |   |      | **TOOLS**  |
-|:---:|---|---|:---:|
-| HTML5 | | |  Adobe Photoshop & Illustrator
-| CSS3 | | |  Sass/Scss
-| JS | | |  Gulp 4
-| BEM | | |  Git
+| **SKILLS**  | **TOOLS**  | **QUALITIES**  | **BOOKS**  |
+|:---:|:---:|:---:|:---:|
+| HTML5 |  Adobe Photoshop & Illustrator | Analitical mindset |   Grokking Algorithms <br>by Aditya Bhargava 
+| CSS3 |  Sass/Scss | Fast learner | 
+| JS |  Gulp 4 | Team player | 
+| BEM |  Git | Ability to learn <br>independently | 
 
-<br><br>
-
-| **QUALITIES**  |   |      | **BOOKS**  |
-|:---:|---|---|:---:|
-| Analitical mindset | | |  Grokking Algorithms <br>by Aditya Bhargava 
-| Fast learner | | |  
-| Team player | | |  
-| Ability to learn <br>independently | | |  
-
-<br><br>
+<br>
 
 ### **CONTACTS**
 ------ 
