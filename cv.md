@@ -2,10 +2,13 @@
 ## **Junior (Trainee)<br>Front-End Developer** 
 <br><br>
 
-## **ABOUT ME**<br>
-*I'm a qualified user of Google and can prioritize the task curretctly.* <br>
-*I can reliably read and understand documentation in English.* <br>
-*I write correct and readable code.*
+### **ABOUT ME**<br>
+>*I'm a qualified user of Google and can prioritize the task curretctly.* <br>
+>*I can reliably read and understand documentation in English.* <br>
+>*I write correct and readable code.*
+
+
+
 <br><br>
 
 ### **EDUCATION**
