@@ -2,14 +2,12 @@
 ## **Junior (Trainee)<br>Front-End Developer** 
 <br><br>
 
-### **ABOUT ME**<br>
+### **ABOUT ME**
 >*I'm a qualified user of Google and can prioritize the task curretctly.* <br>
 >*I can reliably read and understand documentation in English.* <br>
 >*I write correct and readable code.*
 
-
-
-<br><br>
+<br>
 
 ### **EDUCATION**
 ------
@@ -20,45 +18,24 @@
 ### **LANGUAGES**
 ------
 - English: Intermediate <br>
-- Russian / Kazakh: Native
+- Russian & Kazakh: Native
 <br><br>
 
-### **SKILLS**
-------
-- HTML5
-- CSS3
-- JS
-- BEM
-<br><br>
+| **SKILLS**  | **TOOLS**  | **QUALITIES**  | **BOOKS**  |
+|:---:|:---:|:---:|:---:|
+| HTML5 |  Adobe Photoshop <br>& Illustrator | Analitical mindset |   Grokking Algorithms <br>by Aditya Bhargava 
+| CSS3 |  Sass/Scss | Fast learner | 
+| JS |  Gulp 4 | Team player | 
+| BEM |  Git | Ability to learn <br>independently | 
 
-### **TOOLS**
-------
-- Adobe Photoshop
-- Adobe Illustrator
-- Git
-- Sass/Scss
-- Gulp 4
-- Bootstrap 4
-<br><br>
-
-### **QUALITIES**
-------
-- Analitical mindset
-- Fast learner
-- Team player
-- Ability to learn independently
-<br><br>
-
-### **BOOKS**
-------
-- Grokking Algorithms by Aditya Bhargava 
-<br><br>
-
+<br>
 
 ### **CONTACTS**
-------
-- Phone: [+7 (777) 470-28-38](tel:+77774702838)
-- Email: [asylkhan1703@gmail.com](mailto:asylkhan1703@gmail.com)
-- linkedIn: [linked.me/asylkhan](https://www.linkedin.com/in/asylkhan1703/)
-- Facebook: [fb.me/asylkhan](https://www.facebook.com/asylkhan.fazylov)
+------ 
+
+Phone: [+7 (777) 470-28-38](tel:+77774702838)<br>
+Email: [asylkhan1703@gmail.com](mailto:asylkhan1703@gmail.com)<br>
+Facebook: [fb.me/asylkhan](https://www.facebook.com/asylkhan.fazylov)<br>
+LinkedIn: [linked.me/asylkhan](https://www.linkedin.com/in/asylkhan1703/)<br>
+GitHub: [gh.me/asylkhan](https://www.linkedin.com/in/asylkhan1703/)<br>
 <br><br>
